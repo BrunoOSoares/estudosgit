@@ -5,4 +5,4 @@ NomeCompleto = nome + ' ' + sobrenome
 
 print(NomeCompleto)
 
-print(Nome)
+print(nome)
