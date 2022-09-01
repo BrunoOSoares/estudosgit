@@ -5,7 +5,12 @@
     else:
         return ("guarda mais!")'''
 
-def aprender():
+'''def aprender():
     print("Aprendendo sobre função")
     return 0
-aprender()
+aprender()'''
+import random
+def aleatorio():
+    print(random.randrange(0,100))
+    return aleatorio
+print(aleatorio())
